@@ -1,0 +1,41 @@
+ <title>ACTIVIDAD 2</title>
+</head>
+<body>
+<script>
+ var mes = 1;
+ var mes = 2;
+ var mes = 3;
+ var mes = 4;
+ var mes = 5;
+ var mes = 6;
+ var mes = 7;
+ var mes = 8;
+ var mes = 9;
+ var mes = 10;
+ var mes = 11;
+ var mes = 12;
+ var nombre = "Linda Fajardo"
+ var carne  = "22001054"
+ alert("Linda Fajardo, 22001054");
+  
+  console.log();
+  mes=prompt('Ingrese un número:','');
+  if (mes >=1 && mes <=2){
+    console.log ("es invierno");
+  }
+  if(mes >=3 && mes <=5){
+    console.log ("es primavera");
+  }
+  if (mes >=6 && mes <=8){
+    console.log ("es verano");
+    
+  }
+  if (mes >=9 && mes <=11){
+    console.log ("es otoño");
+  }
+   if (mes >=12 && mes <=12){
+    console.log ("es invierno");
+     }
+  </script>
+
+https://jsbin.com/rujiwiyisa/edit?html,console
